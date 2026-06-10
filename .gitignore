@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 .pytest_cache/
 
-# Environments (Don't upload your whole Anaconda env!)
+# Environments
 .env
 venv/
 env/
