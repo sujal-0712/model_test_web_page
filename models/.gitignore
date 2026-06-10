@@ -1,0 +1,20 @@
+# Python caching architectures
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Environments (Don't upload your whole Anaconda env!)
+.env
+venv/
+env/
+portfolio_env/
+
+# Operating system metadata
+.DS_Store
+Thumbs.db
+
+# Large Model Weights Fallback Guardrail
+housing_model.pkl
+diabetes_model.pkl
+
